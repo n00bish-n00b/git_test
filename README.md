@@ -1,4 +1,4 @@
 # git_test
-Git Test
+Git Test\n
 Hey! THis is a practice for using git command line.
 Ayo!
